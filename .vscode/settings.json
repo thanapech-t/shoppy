@@ -1,0 +1,12 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.bracketSpacing": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.eslintIntegration": false
+}
